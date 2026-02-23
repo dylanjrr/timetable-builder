@@ -1,0 +1,1 @@
+ON THE VS CODE TERMINAL TYPE "index.html"
